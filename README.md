@@ -1,5 +1,5 @@
  Hi there!
  I'm Serra.
- I'm a cs student at Bilkent University.
+ I'm a computer science student at Bilkent University.
  
 
